@@ -2,7 +2,7 @@
 ### Project: "Benchmarking multimodal integration methods in single-cell genomics"
 My code for the lecture _Computational Methods in single-cell biology_ in winter semester 2022/2023 at Helmholtz München (ICB) and Technische Universität München.
 
-Note that some the referenced data is not part of this repository, therefore my results are not reproducible just using the code from this repository.
+Note that the referenced data is not part of this repository, therefore my results are not reproducible just using the code from this repository.
 
 The task of this project is to evaluate integration methods from the [scib](https://github.com/theislab/scib) library on data from the following publications:
 * [Single-Cell RNA-Seq Reveals Cellular Heterogeneity of Pluripotency Transition and X Chromosome Dynamics during Early Mouse Development](https://doi.org/10.1016/j.celrep.2019.02.031)
